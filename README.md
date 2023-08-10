@@ -1,4 +1,5 @@
-![image](https://github.com/hinmis/Venus_grabber/assets/141452638/c635921d-dc44-4ccd-a927-dde2ed5d78e9)
+![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
+
 # Venus_builder
 # Features
 Grabs Roblox cookies from Roblox Studio

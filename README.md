@@ -1,7 +1,7 @@
-             ![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
+  ![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
 
 # Venus_builder
-                                 ![Capture d'écran 2024-01-26 150341](https://github.com/hinmis/Venus_Grabber/assets/141452638/adc7ae92-0b28-467f-8f78-ed746d5123d6)
+  ![Capture d'écran 2024-01-26 150341](https://github.com/hinmis/Venus_Grabber/assets/141452638/adc7ae92-0b28-467f-8f78-ed746d5123d6)
 
 • UPDATE WEEKLY
 

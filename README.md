@@ -72,9 +72,9 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 • Extract the zip file.
 
-• Navigate to the Saturn Stealer folder and double click install.bat file.
+• Navigate to theVenus grabber folder 
 
-• After it downloads the requirement double click Builder.bat
+• double click Builder
 
 • Fill in the fields of the builder and press the Build button
 

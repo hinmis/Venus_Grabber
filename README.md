@@ -68,7 +68,7 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 • Verify the installation by executing python --version in CMD.
 
-• Download Saturn stealer.
+• Download Venus Grabber.
 
 • Extract the zip file.
 
